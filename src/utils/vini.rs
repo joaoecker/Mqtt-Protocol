@@ -1,0 +1,98 @@
+#![allow(dead_code)]
+
+use chrono::NaiveTime;
+use ini::Ini;
+use std::collections::HashMap;
+
+#[derive(Debug, Clone)]
+pub struct MachineConfig {
+    pub id: String,
+    pub channel: String,
+}
+
+#[derive(Debug, Clone)]
+pub struct ConfigIni {
+    pub db_path: String,
+    pub mqtt_broker: String,
+    pub mqtt_port: u16,
+    pub mqtt_topic: String,
+    pub machine_ids: String,
+    pub canal: u16,
+    pub time_cicle_ms: u64,
+    pub log_path: String,
+    pub user: String,
+    pub pass: String,
+    pub start_time: NaiveTime,
+    pub end_time: NaiveTime,
+    pub machines: HashMap<String, MachineConfig>,
+}
+
+impl ConfigIni {
+    pub fn new() -> ConfigIni {
+        let mut config = ConfigIni {
+            db_path: String::new(),
+            mqtt_broker: String::new(),
+            mqtt_topic: String::from("maq"),
+            mqtt_port: 1883,
+            machine_ids: String::new(),
+            canal: 0,
+            user: String::new(),
+            pass: String::new(),
+            time_cicle_ms: 10000,
+            log_path: String::new(),
+            start_time: NaiveTime::from_hms_opt(8, 0, 0).unwrap(),
+            end_time: NaiveTime::from_hms_opt(18, 0, 0).unwrap(),
+            machines: HashMap::new(),
+        };
+
+        let ini = Ini::load_from_file("config.ini").expect("Erro ao carregar config.ini");
+
+        for (section, props) in ini.iter() {
+            match section {
+                Some("DEFAULT") | None => {
+                    for (key, value) in props.iter() {
+                        match key {
+                            "db_path" => config.db_path = value.to_string(),
+                            "mqtt_broker" => config.mqtt_broker = value.to_string(),
+                            "mqtt_topic" => config.mqtt_topic = value.to_string(),
+                            "mqtt_port" => config.mqtt_port = value.parse().unwrap_or(1883),
+                            "machine_ids" => config.machine_ids = value.to_string(),
+                            "canal" => config.canal = value.parse().unwrap_or(0),
+                            "user" => config.user = value.to_string(),
+                            "pass" => config.pass = value.to_string(),
+                            "timecicle" => config.time_cicle_ms = value.parse().unwrap_or(10000),
+                            "log_path" => config.log_path = value.to_string(),
+                            "start_time" => {
+                                config.start_time =
+                                    NaiveTime::parse_from_str(value, "%H:%M:%S").unwrap()
+                            }
+                            "end_time" => {
+                                config.end_time =
+                                    NaiveTime::parse_from_str(value, "%H:%M:%S").unwrap()
+                            }
+                            _ => {}
+                        }
+                    }
+                }
+                Some(s) if s.starts_with("machine_") => {
+                    if let (Some(id), Some(channel)) = (props.get("id"), props.get("channel")) {
+                        config.machines.insert(
+                            id.to_string(),
+                            MachineConfig {
+                                id: id.to_string(),
+                                channel: channel.to_string(),
+                            },
+                        );
+                    }
+                }
+                _ => {}
+            }
+        }
+
+        config
+    }
+
+    pub fn get_machine_channel(&self, machine_id: &str) -> Option<String> {
+        self.machines.get(machine_id).map(|m| m.channel.clone())
+    }
+}

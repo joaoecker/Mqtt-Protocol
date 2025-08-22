@@ -1,0 +1,15 @@
+[package]
+name = "MqttProtocol"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rumqttc = "0.23"
+tokio = { version = "*", features = ["full"] }
+chrono = "0.4"
+rsfbclient = { version = "=0.25.0", features = ["pure_rust"] }
+r2d2 = "*"
+r2d2_firebird = "*"
+rust-ini = "*"
+serde = { version = "*", features = ["derive"] }
+serde_json = "*"
