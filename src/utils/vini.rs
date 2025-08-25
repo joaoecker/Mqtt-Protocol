@@ -20,6 +20,8 @@ pub struct ConfigIni {
     pub canal: u16,
     pub time_cicle_ms: u64,
     pub log_path: String,
+    pub udp_host: String,
+    pub udp_port: u16,
     pub user: String,
     pub pass: String,
     pub start_time: NaiveTime,
@@ -40,6 +42,8 @@ impl ConfigIni {
             pass: String::new(),
             time_cicle_ms: 10000,
             log_path: String::new(),
+            udp_host: String::from("127.0.0.1"),
+            udp_port: 1000,
             start_time: NaiveTime::from_hms_opt(8, 0, 0).unwrap(),
             end_time: NaiveTime::from_hms_opt(18, 0, 0).unwrap(),
             machines: HashMap::new(),
@@ -62,6 +66,8 @@ impl ConfigIni {
                             "pass" => config.pass = value.to_string(),
                             "timecicle" => config.time_cicle_ms = value.parse().unwrap_or(10000),
                             "log_path" => config.log_path = value.to_string(),
+                            "udp_host" => config.udp_host = value.to_string(),
+                            "udp_port" => config.udp_port = value.parse().unwrap_or(1000),
                             "start_time" => {
                                 config.start_time =
                                     NaiveTime::parse_from_str(value, "%H:%M:%S").unwrap()
