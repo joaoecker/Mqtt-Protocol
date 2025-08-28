@@ -3,7 +3,7 @@ use rsfbclient::Queryable;
 use rumqttc::{AsyncClient, MqttOptions, QoS};
 use std::collections::HashMap;
 use std::sync::Arc;
-use tokio::sync::RwLock;
+use tokio::sync::{RwLock, RwLockWriteGuard};
 use tokio::time;
 
 mod utils;
@@ -11,37 +11,67 @@ use mqtt::MachineState;
 use utils::vini::ConfigIni;
 use utils::{db, estagio, logger, mqtt, udp};
 
+#[derive(Clone)]
+pub struct Cache<T: Clone> {
+    inner: Arc<RwLock<HashMap<String, T>>>,
+}
+
+impl<T: Clone> Cache<T> {
+    pub fn new() -> Self {
+        Cache {
+            inner: Arc::new(RwLock::new(HashMap::new())),
+        }
+    }
+
+    pub async fn get(&mut self, index: String) -> Option<T> {
+        let guard = self.inner.read().await;
+        guard.get(&index).map(|v| v.clone())
+    }
+
+    pub async fn set(&mut self, index: String, value: T) -> Option<T> {
+        let mut guard = self.inner.write().await;
+        guard.insert(index, value)
+    }
+
+    pub async fn write(&mut self) -> RwLockWriteGuard<'_, HashMap<String, T>> {
+        self.inner.write().await
+    }
+}
+
 #[tokio::main]
 async fn main() {
     let config = ConfigIni::new();
     let db_pool = db::initiate_firebird_connection(&config);
-
+    let mut cache_estado_topico: Cache<u32> = Cache::new();
     let topic_to_id: Arc<HashMap<String, String>> = match db_pool.get() {
-        Ok(mut conn) => {
-            match conn.query::<(), (String, String)>(
-                "SELECT U.ID_MAQUINAS, U.IP FROM UDP_CONFIG U INNER JOIN MAQUINAS M ON U.ID_MAQUINAS = M.ID_MAQUINAS WHERE U.ATIVO = '3'",
-                (),
-            ) {
-                Ok(result) => {
-                    let mut map = HashMap::new();
-                    println!("Máquinas ativas no banco:");
-                    for (id_maquina, topico) in result {
-                        println!("{} -> {}", topico, id_maquina);
-                        map.insert(topico, id_maquina);
-                    }
-                    Arc::new(map)
+    Ok(mut conn) => {
+        match conn.query::<(), (String, String)>(
+            "SELECT U.ID_MAQUINAS, U.IP FROM UDP_CONFIG U INNER JOIN MAQUINAS M ON U.ID_MAQUINAS = M.ID_MAQUINAS WHERE U.ATIVO = '3'",
+            (),
+        ) {
+            Ok(result) => {
+                let map: HashMap<String, String> = result
+                    .into_iter()
+                    .map(|(id_maquina, topico)| (topico, id_maquina))
+                    .collect();
+                println!("Máquinas ativas no banco:");
+                for (topico, id) in &map {
+                    cache_estado_topico.set(topico.clone(), 0).await;
+                    println!("{} -> {}", topico, id);
                 }
-                Err(e) => {
-                    eprintln!("Erro na query: {}", e);
-                    Arc::new(HashMap::new())
-                }
+                Arc::new(map)
+            }
+            Err(e) => {
+                eprintln!("Erro na query: {}", e);
+                Arc::new(HashMap::new())
             }
         }
-        Err(e) => {
-            eprintln!("Erro ao obter conexão da pool: {}", e);
-            Arc::new(HashMap::new())
-        }
-    };
+    }
+    Err(e) => {
+        eprintln!("Erro ao obter conexão da pool: {}", e);
+        Arc::new(HashMap::new())
+    }
+};
 
     let states_map = Arc::new(RwLock::new(HashMap::<String, MachineState>::new()));
     let mut mqttoptions = MqttOptions::new("rust-client", &config.mqtt_broker, config.mqtt_port);
@@ -71,6 +101,7 @@ async fn main() {
             states_map_mqtt,
             udp_host,
             udp_port,
+            cache_estado_topico,
         )
         .await;
     });
@@ -109,6 +140,6 @@ async fn main() {
     });
 
     loop {
-        time::sleep(std::time::Duration::from_secs(config.time_cicle_ms / 1000)).await;
+        // time::sleep(std::time::Duration::from_secs(config.time_cicle_ms / 1000)).await;
     }
 }

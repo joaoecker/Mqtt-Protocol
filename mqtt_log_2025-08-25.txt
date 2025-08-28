@@ -2118,3 +2118,3210 @@
     }
 }
 
+2025-08-25 15:39:39 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 15:39:54 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 15:40:12 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 15:40:29 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 15:40:45 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 15:41:03 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 15:41:21 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 15:41:33 | Apont/450T | unavailable
+2025-08-25 15:41:39 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 15:41:58 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 15:42:15 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 15:42:30 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 15:42:49 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 15:43:04 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 15:43:22 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 15:43:39 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 15:43:59 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:24:50 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:24:51 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:24:52 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:24:53 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:24:54 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:24:55 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:24:56 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:24:57 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:24:58 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:24:59 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:00 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:01 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:02 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:03 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:04 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:05 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:06 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:07 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:08 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:09 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:10 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:11 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:12 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:13 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:14 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:15 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:16 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:17 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:18 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:19 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:20 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:21 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:22 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:23 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:24 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:25 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:26 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:27 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:28 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:29 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:30 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:31 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:32 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:33 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:34 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:35 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:36 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:37 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:38 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:39 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:40 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:42 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:43 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:44 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:45 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:46 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:47 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:48 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:49 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:50 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:51 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:52 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:53 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:54 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:55 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:56 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:57 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:58 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:25:59 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:00 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:01 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:02 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:03 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:04 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:05 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:06 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:07 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:08 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:09 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:10 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:11 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:12 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:13 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:14 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:15 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:16 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:17 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:18 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:19 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:20 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:21 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:22 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:23 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:24 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:25 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:26 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:27 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:28 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:29 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:30 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:31 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:32 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:33 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:34 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:35 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:36 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:37 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:38 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:39 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:40 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:41 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:42 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:43 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:44 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:45 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:46 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:47 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:48 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:49 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:50 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:51 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:52 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:53 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:54 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:55 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:56 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:57 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:58 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:26:59 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:27:00 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:27:01 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:27:02 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:27:03 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:27:04 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:27:05 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:27:06 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:27:07 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:27:08 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:27:09 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:27:10 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:27:11 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:27:12 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:27:13 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:27:14 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:27:15 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:27:16 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:27:17 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "3",
+        "type": "UINT16",
+        "{CLP}1@D36": "3"
+    }
+}
+
+2025-08-25 16:27:18 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:27:19 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "3",
+        "type": "UINT16",
+        "{CLP}1@D36": "3"
+    }
+}
+
+2025-08-25 16:27:20 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:27:21 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:27:22 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "3",
+        "type": "UINT16",
+        "{CLP}1@D36": "3"
+    }
+}
+
+2025-08-25 16:27:23 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:27:24 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "3",
+        "type": "UINT16",
+        "{CLP}1@D36": "3"
+    }
+}
+
+2025-08-25 16:27:25 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:27:26 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "3",
+        "type": "UINT16",
+        "{CLP}1@D36": "3"
+    }
+}
+
+2025-08-25 16:27:27 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:27:28 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "3",
+        "type": "UINT16",
+        "{CLP}1@D36": "3"
+    }
+}
+
+2025-08-25 16:27:30 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:27:31 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "3",
+        "type": "UINT16",
+        "{CLP}1@D36": "3"
+    }
+}
+
+2025-08-25 16:27:32 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:27:33 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "3",
+        "type": "UINT16",
+        "{CLP}1@D36": "3"
+    }
+}
+
+2025-08-25 16:27:34 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:27:38 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "3",
+        "type": "UINT16",
+        "{CLP}1@D36": "3"
+    }
+}
+
+2025-08-25 16:27:46 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:31:37 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "3",
+        "type": "UINT16",
+        "{CLP}1@D36": "3"
+    }
+}
+
+2025-08-25 16:31:38 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:31:39 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "3",
+        "type": "UINT16",
+        "{CLP}1@D36": "3"
+    }
+}
+
+2025-08-25 16:31:40 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:31:41 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "3",
+        "type": "UINT16",
+        "{CLP}1@D36": "3"
+    }
+}
+
+2025-08-25 16:31:42 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:31:43 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "3",
+        "type": "UINT16",
+        "{CLP}1@D36": "3"
+    }
+}
+
+2025-08-25 16:31:44 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:31:45 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "3",
+        "type": "UINT16",
+        "{CLP}1@D36": "3"
+    }
+}
+
+2025-08-25 16:31:46 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:31:47 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "3",
+        "type": "UINT16",
+        "{CLP}1@D36": "3"
+    }
+}
+
+2025-08-25 16:31:48 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:31:49 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "3",
+        "type": "UINT16",
+        "{CLP}1@D36": "3"
+    }
+}
+
+2025-08-25 16:31:50 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:31:51 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "3",
+        "type": "UINT16",
+        "{CLP}1@D36": "3"
+    }
+}
+
+2025-08-25 16:31:52 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:31:53 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "3",
+        "type": "UINT16",
+        "{CLP}1@D36": "3"
+    }
+}
+
+2025-08-25 16:31:54 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:31:55 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "3",
+        "type": "UINT16",
+        "{CLP}1@D36": "3"
+    }
+}
+
+2025-08-25 16:31:56 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:31:57 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "3",
+        "type": "UINT16",
+        "{CLP}1@D36": "3"
+    }
+}
+
+2025-08-25 16:31:58 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:31:59 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "3",
+        "type": "UINT16",
+        "{CLP}1@D36": "3"
+    }
+}
+
+2025-08-25 16:32:00 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:32:01 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "3",
+        "type": "UINT16",
+        "{CLP}1@D36": "3"
+    }
+}
+
+2025-08-25 16:32:02 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:32:03 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "3",
+        "type": "UINT16",
+        "{CLP}1@D36": "3"
+    }
+}
+
+2025-08-25 16:32:04 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:32:05 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "3",
+        "type": "UINT16",
+        "{CLP}1@D36": "3"
+    }
+}
+
+2025-08-25 16:32:08 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:32:18 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "3",
+        "type": "UINT16",
+        "{CLP}1@D36": "3"
+    }
+}
+
+2025-08-25 16:32:23 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:32:34 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "3",
+        "type": "UINT16",
+        "{CLP}1@D36": "3"
+    }
+}
+
+2025-08-25 16:32:41 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:32:52 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "3",
+        "type": "UINT16",
+        "{CLP}1@D36": "3"
+    }
+}
+
+2025-08-25 16:32:56 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:33:08 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "3",
+        "type": "UINT16",
+        "{CLP}1@D36": "3"
+    }
+}
+
+2025-08-25 16:33:14 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:33:25 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "3",
+        "type": "UINT16",
+        "{CLP}1@D36": "3"
+    }
+}
+
+2025-08-25 16:33:30 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:33:40 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "3",
+        "type": "UINT16",
+        "{CLP}1@D36": "3"
+    }
+}
+
+2025-08-25 16:33:46 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:34:00 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "3",
+        "type": "UINT16",
+        "{CLP}1@D36": "3"
+    }
+}
+
+2025-08-25 16:34:03 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:34:18 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:34:19 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "3",
+        "type": "UINT16",
+        "{CLP}1@D36": "3"
+    }
+}
+
+2025-08-25 16:34:36 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "3",
+        "type": "UINT16",
+        "{CLP}1@D36": "3"
+    }
+}
+
+2025-08-25 16:34:37 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:34:52 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "3",
+        "type": "UINT16",
+        "{CLP}1@D36": "3"
+    }
+}
+
+2025-08-25 16:34:53 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:35:09 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:35:12 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "3",
+        "type": "UINT16",
+        "{CLP}1@D36": "3"
+    }
+}
+
+2025-08-25 16:35:28 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:35:35 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "3",
+        "type": "UINT16",
+        "{CLP}1@D36": "3"
+    }
+}
+
+2025-08-25 16:35:44 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:35:51 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:36:01 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:36:10 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:36:18 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:36:25 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:36:27 | T427IHMPARAM | {
+    "d": {
+        "RCPNO": "220",
+        "type": "UINT16"
+    }
+}
+
+2025-08-25 16:36:34 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:36:44 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:36:51 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:36:59 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:37:06 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:37:19 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:37:22 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:37:36 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:37:42 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:37:54 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:37:57 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:38:12 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:38:14 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:38:30 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:38:31 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:38:49 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:38:50 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:39:07 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:39:08 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:39:22 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:39:27 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:39:39 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:39:47 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "3",
+        "type": "UINT16",
+        "{CLP}1@D36": "3"
+    }
+}
+
+2025-08-25 16:39:55 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:44:59 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:45:00 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:45:01 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:45:02 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:45:03 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:45:04 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:45:05 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:45:06 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:45:07 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:45:08 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:45:09 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:45:10 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:45:11 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:45:12 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:45:13 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:45:14 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:45:15 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:45:16 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:45:17 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:45:18 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:45:19 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:45:20 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:45:21 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:45:23 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:45:23 | T427IHMPARAM | {
+    "d": {
+        "RCPNO": "303",
+        "type": "UINT16"
+    }
+}
+
+2025-08-25 16:45:23 | T427IHMPARAM | {
+    "d": {
+        "PSP1": "9600",
+        "type": "UINT16",
+        "{CLP}1@D702": "9600"
+    }
+}
+
+2025-08-25 16:45:23 | T427IHMPARAM | {
+    "d": {
+        "PSP3": "8800",
+        "type": "UINT16",
+        "{CLP}1@D704": "8800"
+    }
+}
+
+2025-08-25 16:45:23 | T427IHMPARAM | {
+    "d": {
+        "PSP4": "8800",
+        "type": "UINT16",
+        "{CLP}1@D705": "8800"
+    }
+}
+
+2025-08-25 16:45:23 | T427IHMPARAM | {
+    "d": {
+        "PT2": "30",
+        "type": "UINT16",
+        "{CLP}1@D709": "30"
+    }
+}
+
+2025-08-25 16:45:23 | T427IHMPARAM | {
+    "d": {
+        "PT3": "30",
+        "type": "UINT16",
+        "{CLP}1@D710": "30"
+    }
+}
+
+2025-08-25 16:45:23 | T427IHMPARAM | {
+    "d": {
+        "PT4": "1",
+        "type": "UINT16",
+        "{CLP}1@D711": "1"
+    }
+}
+
+2025-08-25 16:45:24 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:45:25 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:45:26 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:45:27 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:45:28 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:45:29 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:45:30 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:45:31 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:45:32 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:45:33 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:45:34 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:45:35 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:45:36 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:45:37 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:45:38 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:45:39 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:45:46 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:45:50 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:46:02 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:46:08 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:46:17 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:46:25 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:46:35 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:46:41 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:46:51 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:46:56 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:47:09 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:47:12 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:47:27 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:47:29 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:47:44 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:47:45 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:47:59 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:48:01 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:48:16 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:48:17 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:48:34 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:48:35 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:48:50 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:48:52 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:49:07 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:49:08 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:49:23 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:49:26 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:49:39 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:49:42 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:49:57 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:49:58 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:50:14 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:50:16 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:50:29 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:50:32 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:50:47 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:50:49 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:51:03 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:51:05 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:51:19 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:51:20 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:51:35 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:51:38 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:51:53 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:51:54 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:52:09 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:52:12 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:52:25 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:52:30 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:52:41 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:52:46 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:52:57 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:53:02 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:53:14 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:53:19 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:53:32 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:53:38 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:53:48 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:53:56 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:54:04 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:54:11 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:54:19 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:54:27 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:54:36 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:54:45 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:54:52 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:55:00 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:55:09 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:55:19 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:55:25 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:55:34 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:55:42 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:55:52 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:55:59 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:56:09 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:56:16 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:56:27 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:56:34 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:56:43 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:56:54 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:57:00 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:57:10 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:57:15 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:57:27 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:57:30 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+
+2025-08-25 16:57:43 | T427IHMPARAM | {
+    "d": {
+        "ESTAGIO": "2",
+        "type": "UINT16",
+        "{CLP}1@D36": "2"
+    }
+}
+
+2025-08-25 16:57:46 | T415IHMPARAM | {
+    "d": {
+        "ESTAGIO": "0",
+        "type": "UINT16",
+        "{CLP}1@D36": "0"
+    }
+}
+

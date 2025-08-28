@@ -7,6 +7,7 @@ name = "MqttProtocol"
 version = "0.1.0"
 dependencies = [
  "chrono",
+ "once_cell",
  "r2d2",
  "r2d2_firebird",
  "rsfbclient",

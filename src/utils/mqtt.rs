@@ -1,6 +1,7 @@
 use crate::utils::estagio;
 use crate::utils::logger;
 use crate::utils::udp;
+use crate::Cache;
 use chrono::Local;
 use rumqttc::{AsyncClient, Event, MqttOptions, Packet, QoS};
 use serde::Deserialize;
@@ -33,13 +34,14 @@ pub struct MachineMessage {
     pub timestamp: i64,
 }
 
-pub async fn start_mqtt(
+pub async fn start_mqtt<'a>(
     client: AsyncClient,
     mut eventloop: rumqttc::EventLoop,
     topic_to_id: Arc<HashMap<String, String>>,
     states_map: Arc<RwLock<HashMap<String, MachineState>>>,
     udp_host: String,
     udp_port: u16,
+    cache_estado_topico: Cache<u32>,
 ) {
     loop {
         match eventloop.poll().await {
@@ -59,6 +61,7 @@ pub async fn start_mqtt(
                     &states_map,
                     &udp_host,
                     udp_port,
+                    cache_estado_topico.clone(),
                 )
                 .await
                 {
@@ -82,6 +85,7 @@ async fn process_mqtt_message(
     states_map: &RwLock<HashMap<String, MachineState>>,
     udp_host: &str,
     udp_port: u16,
+    cache_estado_topico: crate::Cache<u32>,
 ) -> Result<(), Box<dyn std::error::Error>> {
     let payload: MqttPayload = serde_json::from_str(payload_str)?;
 
@@ -91,10 +95,12 @@ async fn process_mqtt_message(
     };
     let estagio_num: u8 = estagio_str.parse()?;
 
-    let machine_id = topic_to_id
-        .get(topic)
-        .map(|id| id.trim_start_matches('0').to_string())
-        .unwrap_or_else(|| "unknown".to_string());
+    let machine_id_full = topic_to_id.get(topic).cloned().unwrap_or_else(|| {
+        eprintln!("Tópico não encontrado no mapa: {}", topic);
+        "0000".to_string()
+    });
+
+    let machine_id = machine_id_full.trim_start_matches('0').to_string();
 
     let timestamp = Local::now().timestamp();
     let msg = MachineMessage {
@@ -112,7 +118,17 @@ async fn process_mqtt_message(
         },
     );
 
-    estagio::process_estagio(timestamp, machine_id, estagio_num, udp_host, udp_port).await;
+    estagio::process_estagio(
+        timestamp,
+        machine_id,
+        machine_id_full,
+        estagio_num,
+        udp_host,
+        udp_port,
+        topic,
+        cache_estado_topico.clone(),
+    )
+    .await;
 
     Ok(())
 }
