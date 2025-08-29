@@ -46,7 +46,7 @@ pub async fn start_mqtt<'a>(
     loop {
         match eventloop.poll().await {
             Ok(notification) => {
-                let Event::Incoming(Packet::Publish(publish)) = notification else {
+                let Event::Incoming(Packet::Publish(publish)) = dbg!(notification) else {
                     continue;
                 };
 
@@ -72,7 +72,7 @@ pub async fn start_mqtt<'a>(
             }
             Err(e) => {
                 eprintln!("Erro no loop MQTT: {:?}", e);
-                break;
+                let _ = logger::save_log("MQTT_LOOP_ERROR", &format!("{:?}", e)).await;
             }
         }
     }

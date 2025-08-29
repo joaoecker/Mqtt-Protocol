@@ -28,6 +28,8 @@ pub struct ConfigIni {
     pub start_time: NaiveTime,
     pub end_time: NaiveTime,
     pub machines: HashMap<String, MachineConfig>,
+    pub mqtt_clean_session: bool,
+    pub mqtt_keep_alive: u64,
 }
 
 impl Default for ConfigIni {
@@ -49,6 +51,8 @@ impl Default for ConfigIni {
             start_time: NaiveTime::from_hms_opt(8, 0, 0).unwrap(),
             end_time: NaiveTime::from_hms_opt(18, 0, 0).unwrap(),
             machines: HashMap::default(),
+            mqtt_clean_session: true,
+            mqtt_keep_alive: 30,
         }
     }
 }
@@ -84,6 +88,12 @@ impl ConfigIni {
                             "end_time" => {
                                 config.end_time =
                                     NaiveTime::parse_from_str(value, "%H:%M:%S").unwrap()
+                            }
+                            "mqtt_clean_session" => {
+                                config.mqtt_clean_session = value.parse::<bool>().unwrap_or(true)
+                            }
+                            "mqtt_keep_alive" => {
+                                config.mqtt_keep_alive = value.parse::<u64>().unwrap_or(30)
                             }
                             _ => {}
                         }

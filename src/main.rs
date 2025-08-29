@@ -1,3 +1,4 @@
+#![windows_subsystem = "windows"]
 use chrono::Local;
 use rsfbclient::Queryable;
 use rumqttc::{AsyncClient, MqttOptions, QoS};
@@ -52,12 +53,12 @@ async fn main() {
             Ok(result) => {
                 let map: HashMap<String, String> = result
                     .into_iter()
-                    .map(|(id_maquina, topico)| (topico, id_maquina))
+                    .map(|(id_maquina, topico)| {
+                        (topico, id_maquina)
+                    })
                     .collect();
-                println!("Máquinas ativas no banco:");
                 for (topico, id) in &map {
                     cache_estado_topico.set(topico.clone(), 0).await;
-                    println!("{} -> {}", topico, id);
                 }
                 Arc::new(map)
             }
@@ -75,18 +76,24 @@ async fn main() {
 
     let states_map = Arc::new(RwLock::new(HashMap::<String, MachineState>::new()));
     let mut mqttoptions = MqttOptions::new("rust-client", &config.mqtt_broker, config.mqtt_port);
-    mqttoptions.set_keep_alive(std::time::Duration::from_secs(30));
-    mqttoptions.set_clean_session(false);
+    mqttoptions.set_keep_alive(std::time::Duration::from_secs(config.mqtt_keep_alive));
+    mqttoptions.set_clean_session(config.mqtt_clean_session);
     mqttoptions.set_credentials(&config.user, &config.pass);
 
     let (client, eventloop) = AsyncClient::new(mqttoptions, 10);
-    println!("Broker conectado");
 
     for topic in topic_to_id.keys() {
         client
             .subscribe(topic, QoS::AtLeastOnce)
             .await
-            .unwrap_or_else(|e| eprintln!("Erro ao subscrever no tópico {}: {}", topic, e));
+            .unwrap_or_else(|e| {
+                let log_msg = format!("Erro ao subscrever no tópico {}: {}", topic, e);
+                let topic_clone = topic.clone();
+                tokio::spawn(async move {
+                    // Aqui você pode usar "ERROR" como tipo de log
+                    logger::save_log("ERROR", &log_msg).await.ok();
+                });
+            });
     }
 
     let topic_to_id_mqtt = Arc::clone(&topic_to_id);
@@ -126,10 +133,12 @@ async fn main() {
                         "SP,{},{},1,{},R,EP",
                         machine_state.timestamp, machine_id, machine_state.state
                     );
-                    println!("Reenviando pacote periódico: {}", packet);
 
                     if let Err(e) = udpsocket.send(packet.as_bytes()).await {
-                        eprintln!("Erro ao enviar via UDP: {}", e);
+                        let log_msg = format!("Erro ao enviar via UDP para {}: {}", machine_id, e);
+                        tokio::spawn(async move {
+                            logger::save_log("ERROR", &log_msg).await.ok();
+                        });
                     } else {
                         machine_state.last_sent = now;
                     }
